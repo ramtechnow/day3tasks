@@ -1,0 +1,26 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.Overall{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px ;
+}
+.Card{
+  width: 300px;
+  height: 400px;
+  border: 3px solid;
+  border-radius:5px;  
+  background-color: lightblue;
+  box-shadow: 3px 3px 10px black;
+  text-align: center;
+}
+img{
+  height: 85%;
+  width: 100%;
+}
